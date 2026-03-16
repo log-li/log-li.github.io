@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Legeng (Logan) Lin"
 author_profile: true
 redirect_from: 
   - /about/
@@ -38,7 +38,7 @@ Current Position
 **Postdoctoral Fellow** (August 2025 - Present)  
 Department of Biomedical Engineering  
 The Hong Kong Polytechnic University  
-[Xiaoling Hu's Lab](https://www.polyu.edu.hk/bme/)
+[Xiaoling Hu's Lab](https://www.polyu.edu.hk/bme/people/academic-and-teaching-staff/prof-xiaoling-hu/)
 
 Skills & Expertise
 ======
@@ -52,4 +52,4 @@ Skills & Expertise
 Contact
 ======
 📍 Hong Kong SAR, China  
-🔗 [ORCID](https://orcid.org/0000-0002-4863-7129) | [ResearchGate](https://www.researchgate.net/profile/Lin-Legeng) | [Google Scholar](https://scholar.google.com/citations?user=PS_CX0AAAAAJ)
+🔗 [ORCID](https://orcid.org/0000-0002-4863-7129) | [ResearchGate](https://www.researchgate.net/profile/Lin-Legeng) | [Google Scholar](https://scholar.google.com/citations?user=Rbvo1wYAAAAJ&hl=en)
