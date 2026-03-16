@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Logan Lin"
 title_separator          : "-"
 name                     : &name "Logan Lin"
-description              : &description "Logan Lin's personal portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Ph.D. in Biomedical Engineering | Wearable Robotics | Neural Engineering | Neurorehabilitation"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://log-li.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Logan Lin"
   pronouns         : # example: "she/her"  
-  bio              : "AI enthusiast | Builder | Hong Kong"
+  bio              : "Ph.D. in Biomedical Engineering | Postdoctoral Fellow at Hong Kong Polytechnic University"
   location         : "Hong Kong"
-  employer         : 
+  employer         : "Hong Kong Polytechnic University" 
   uri              : # URL
   email            : # your email 
 
@@ -38,11 +38,11 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-4863-7129"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Lin-Legeng"
   scopus           : # URL
   zotero           : # URL
 
