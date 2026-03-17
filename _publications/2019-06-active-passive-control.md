@@ -8,5 +8,4 @@ venue: 'Applied Sciences'
 citation: 'Fuhai Zhang, <b>Legeng Lin</b>, Lei Yang, Yili Fu. "Design of an Active and Passive Control System of Hand Exoskeleton for Rehabilitation." Applied Sciences, 9(11), 2291, 2019.'
 doi: '10.3390/app9112291'
 paperurl: 'https://doi.org/10.3390/app9112291'
-excerpt: 'DOI: [10.3390/app9112291](https://doi.org/10.3390/app9112291)'
 ---
