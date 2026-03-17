@@ -7,4 +7,5 @@ date: 2025-09-17
 venue: 'CRC Press (Book Chapter)'
 citation: 'Legeng Lin et al. "Mobile Upper Limb Robots for Self-Help Telerehabilitation." In Rehabilitation Robots for Neurological Disorders, CRC Press, 2025.'
 doi: '10.1201/9781003419235-6'
+paperurl: 'https://doi.org/10.1201/9781003419235-6'
 ---

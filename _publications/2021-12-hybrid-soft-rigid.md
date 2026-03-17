@@ -7,4 +7,5 @@ date: 2021-12-01
 venue: 'International Journal of Mechanical Sciences'
 citation: 'Legeng Lin et al. "Design and modeling of a hybrid soft-rigid hand exoskeleton for poststroke rehabilitation." International Journal of Mechanical Sciences, 210, 106831, 2021.'
 doi: '10.1016/j.ijmecsci.2021.106831'
+paperurl: 'https://doi.org/10.1016/j.ijmecsci.2021.106831'
 ---
