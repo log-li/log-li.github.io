@@ -8,4 +8,5 @@ venue: '2024 17th International Convention on Rehabilitation Engineering and Ass
 citation: 'Wanyi Qing, Hantao Song, **Legeng Lin**, Fuqiang Ye, Xiaoling Hu. "Reorganization of Undirected and Directed Cortico-Muscular Connectivity After Exoneuromusculoskeleton-Assisted Telerehabilitation." In Proceedings of i-CREATe 2024, Shanghai, China, 2024.'
 doi: '10.1109/i-create62067.2024.10776416'
 paperurl: 'https://doi.org/10.1109/i-create62067.2024.10776416'
+excerpt: 'DOI: [10.1109/i-create62067.2024.10776416](https://doi.org/10.1109/i-create62067.2024.10776416)'
 ---
