@@ -1,5 +1,9 @@
 {% include base_path %}
 
+<div style="text-align: center; margin-bottom: 1em;">
+  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=68enhMm_cZFGWA_M22rTaeRcBoPwsw9FQcHCI0UBSTs"></script>
+</div>
+
 {% if site.author.github or site.author.bitbucket or site.atom_feed.hide != true %}
 <div class="page__footer-follow">
   <ul class="social-icons">
@@ -22,8 +26,4 @@
 <div class="page__footer-copyright">
   &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}, {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.<br />
   Site last updated {{ "now" | date: '%Y-%m-%d' }}
-</div>
-
-<div style="text-align: center; margin-top: 1em;">
-  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=68enhMm_cZFGWA_M22rTaeRcBoPwsw9FQcHCI0UBSTs"></script>
 </div>
