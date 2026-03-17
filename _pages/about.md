@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Fellow at the Hong Kong Polytechnic University, specializing in neural engineering, wearable robotics, and neurorehabilitation. My research focuses on developing innovative solutions that empower individuals with neural disorders to live more fulfilling lives.
+I am a Postdoctoral Fellow at the Hong Kong Polytechnic University. I am deeply passionate about understanding the intricate mechanisms underlying neural disorders and diseases and developing innovative solutions that empower individuals to live more fulfilling lives, stemming from a strong belief in the transformative potential of interdisciplinary research, including neural engineering, rehabilitation science, robotics, artificial intelligence, wearable technology, neuroscience, and neuroimaging.
 
 Research Interests
 ======
