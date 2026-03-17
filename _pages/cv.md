@@ -59,7 +59,7 @@ Awards & Honors
 * 2024: Top Prize of HKMHDIA Student Research Award 2024
 * 2024: Best Oral Presentation Award, i-CREATe 2024
 * 2024: 2nd Runner-up, BME Research Student Three Minute Thesis Competition
-* 2019: Guorui Scholarship (0.4%, 8,000 CNY)
+* 2019: Guorui Scholarship (0.4%)
 * 2018-2019: 1st Class Scholarship (two consecutive years)
 
 Patents
