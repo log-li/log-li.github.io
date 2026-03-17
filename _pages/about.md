@@ -47,9 +47,9 @@ Skills & Expertise
 Contact
 ======
 📍 Hong Kong SAR, China  
-📧 legeng.lin@outlook.com  
+📧 [legeng.lin@outlook.com](mailto:legeng.lin@outlook.com)  
 🔗 [ORCID](https://orcid.org/0000-0002-4863-7129) | [ResearchGate](https://www.researchgate.net/profile/Lin-Legeng) | [Google Scholar](https://scholar.google.com/citations?user=Rbvo1wYAAAAJ&hl=en)
 
 <div style="text-align: center; margin-top: 1.5em;">
-  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=68enhMm_cZFGWA_M22rTaeRcBoPwsw9FQcHCI0UBSTs&w=500"></script>
+  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=68enhMm_cZFGWA_M22rTaeRcBoPwsw9FQcHCI0UBSTs&w=400"></script>
 </div>
