@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Logan Lin"
+title                    : "Legeng (Logan) Lin"
 title_separator          : "-"
 name                     : &name "Legeng (Logan) Lin"
 description              : &description "Ph.D. in Biomedical Engineering | Wearable Robotics | Neural Engineering | Neurorehabilitation"   # Update this with a general description of your site, this is the default if not overridden by a page
