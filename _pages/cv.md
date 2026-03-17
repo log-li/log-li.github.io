@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D. in Biomedical Engineering, The Hong Kong Polytechnic University, 2021-2025
   * Neurorehabilitation & Neural Engineering Laboratory
-  * Advisor: Dr. Xiaoling Hu
+  * Advisor: Prof. Xiaoling Hu
 * M.S. in Mechatronics Engineering, Harbin Institute of Technology, 2018-2020
   * State Key Laboratory of Robotics and System
   * Top 8% in Rehabilitation Robotics area
@@ -28,14 +28,14 @@ Research Experience
 ======
 * Sep. 2021 – May 2025: **Research on sensorimotor-integrated rehabilitation by electro-vibro-feedback**
   * The Hong Kong Polytechnic University, Neurorehabilitation & Neural Engineering Laboratory
-  * Advisor: Dr. Xiaoling Hu
+  * Advisor: Prof. Xiaoling Hu
   * Derived differences between focal vibratory and electrical sensory stimulations in immediate neuromodulatory effects on the poststroke cortex
   * Designed rehabilitative robot with electro-vibro-feedback for targeted somatosensory priming
   * Investigated rehabilitative and neuroplastic effects of sensorimotor-integrated wrist/hand rehabilitation
 
 * Aug. 2018 – June 2021: **Design of whole upper-limb rehabilitation exoskeleton**
   * Harbin Institute of Technology, State Key Laboratory of Robotics and System
-  * Advisor: Dr. Fuhai Zhang
+  * Advisor: Prof. Fuhai Zhang
   * Designed auto-switching control system for cable-driven hand exoskeleton
   * Developed variable impedance control system for finger exoskeleton
   * Engineered compliant whole upper-limb exoskeleton robot
