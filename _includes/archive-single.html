@@ -57,9 +57,7 @@
     {% elsif post.citation and post.paperurl and post.slidesurl %}
       <p>{{ post.citation }}<br /><a href="{{ post.paperurl }}">DOI: {{ post.doi }}</a> | <a href="{{ post.slidesurl }}">Download Slides</a></p>
     {% elsif post.citation and post.paperurl and post.bibtexurl %}
-      <p>{{ post.citation }}<br /><a href="{{ post.paperurl }}">DOI: {{ post.doi }}</a> | <a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
-    {% elsif post.citation and post.paperurl and post.aamurl %}
-      <p>{{ post.citation }}<br /><a href="{{ post.paperurl }}">DOI: {{ post.doi }}</a> | <a href="{{ post.aamurl }}">AAM (PDF)</a></p>
+      <p>{{ post.citation }}<br /><a href="{{ post.paperurl }}">DOI: {{ post.doi }}</a> | {% if post.aamurl %}<a href="{{ post.aamurl }}">AAM (PDF)</a> | {% endif %}<a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
     {% elsif post.citation and post.paperurl %}
       <p>{{ post.citation }}<br /><a href="{{ post.paperurl }}">DOI: {{ post.doi }}</a></p>
     {% elsif post.citation and post.slidesurl and post.bibtexurl %}
