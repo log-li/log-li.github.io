@@ -1,0 +1,25 @@
+Copyright notice for files in this directory
+=============================================
+
+The PDFs, manuscripts, preprints, figures and supplementary files stored in
+this directory are scholarly works. Each file is copyright its respective
+publisher and/or authors, and is made available under the terms stated on the
+first page of that file. They are provided for personal, non-commercial
+reading and citation.
+
+These files are NOT covered by the MIT license that applies to this website.
+The MIT license in the repository root covers the site's source code,
+templates and styling only, and does not grant any right to copy, redistribute
+or reuse the scholarly content stored here.
+
+Example notice used on IEEE author accepted manuscripts:
+
+  (c) 2026 IEEE. Personal use of this material is permitted. Permission from
+  IEEE must be obtained for all other uses, in any current or future media,
+  including reprinting/republishing this material for advertising or
+  promotional purposes, creating new collective works, for resale or
+  redistribution to servers or lists, or reuse of any copyrighted component of
+  this work in other works.
+
+To request reuse of any file in this directory beyond personal use, contact the
+copyright holder named on the first page of the file.
